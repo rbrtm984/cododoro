@@ -1,5 +1,10 @@
 {
-    "manifest_version": 2,
+    "manifest_version": 3,
     "name": "cododoro",
-    "version": "1.0"
+    "version": "1.0",
+    "description": "Our extension allows you to click a button to start a timer for 25:00.",
+    "icons": {
+      "128": "tomato128.png",
+      "48": "tomato48.png"
+    }
   }
