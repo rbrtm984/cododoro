@@ -4,7 +4,10 @@
     "version": "1.0",
     "description": "Our extension allows you to click a button to start a timer for 25:00.",
     "icons": {
-      "128": "tomato128.png",
-      "48": "tomato48.png"
+      "128": "images/tomato128.png",
+      "48": "images/tomato48.png"
+    },
+    "action": {
+        "default_popup": "popup.html"
     }
   }
